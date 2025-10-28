@@ -10,8 +10,6 @@ Currently, I’m looking for an **internship position** in **Computer Vision** o
 - 🔭 I’m currently working on deep learning models for **medical image segmentation**  
 - 🌱 Learning more about **advanced image analysis** and **deep learning architectures**  
 - 💬 Let’s talk about **computer vision**, **image processing**, and **AI in healthcare**  
-- 📫 How to reach me: **yalda.ef@gmail.com**  
-- 🧠 [LinkedIn](https://www.linkedin.com/in/yalda-eftekhari/)  
 
 ---
 
