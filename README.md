@@ -1,25 +1,39 @@
-# Yalda Eftekhari
+### Hi there 👋, I’m [Yalda Eftekhari](https://www.linkedin.com/in/yalda-eftekhari/)
 
-I am a Master's student in **Computer Science at Sorbonne University**, specializing in **Image Processing** and **Computer Vision**.  
-My current research focuses on developing **deep learning methods for medical image analysis** and **segmentation tasks**.  
-I am actively seeking an **internship position** in **Computer Vision** or **Image Processing** to apply and expand my skills in real-world projects.
+<!--
+**yalda-eftekhari/yalda-eftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Hello! My name is **Yalda Eftekhari**, and I am a **Master’s student in Computer Science at [Sorbonne University](https://www.sorbonne-universite.fr/)**.  
+My main interests are in **Image Processing**, **Computer Vision**, and **Deep Learning** — especially for **medical image analysis**.  
+I’m currently looking for an **internship position** related to these fields to apply my research and technical skills to real-world problems.
+
+- 🔭 I’m currently working on deep learning models for **medical image segmentation**  
+- 🌱 I’m learning more about **advanced image analysis** and **deep learning architectures**  
+- 💬 Let’s talk about **computer vision**, **image processing**, and **AI applications in healthcare**  
+- 📫 How to reach me: **yalda.ef@gmail.com**  
+- 🧠 [LinkedIn](https://www.linkedin.com/in/yalda-eftekhari/)  
 
 ---
 
-### Skills
+**Languages and Tools:**  
 
-- **Programming:** Python, C++, MATLAB  
-- **Deep Learning:** PyTorch, TensorFlow  
-- **Computer Vision:** OpenCV, scikit-image  
-- **Data & Tools:** NumPy, Pandas, Matplotlib, Jupyter  
-- **Development:** FastAPI, Git, Docker
+![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=social)&nbsp;&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?logo=mathworks&style=social)&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&style=social)&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=social)&nbsp;&nbsp;
+![scikit-image](https://img.shields.io/badge/-scikit--image-black?logo=scikit-learn&style=social)&nbsp;&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=social)&nbsp;&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)&nbsp;&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=plotly&style=social)&nbsp;&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 
 ---
 
-### About Me
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalda-eftekhari&hide=TeX&layout=compact)
 
-I’m passionate about transforming visual data into meaningful insights using deep learning and computer vision.  
-I enjoy working on problems that combine analytical thinking with creativity and real-world impact.
-
-📫 **Email:** yalda.ef@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/yalda-eftekhari](https://www.linkedin.com/in/yalda-eftekhari/)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yalda-eftekhari.yalda-eftekhari)
