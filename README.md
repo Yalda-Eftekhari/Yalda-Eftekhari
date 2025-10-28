@@ -1,4 +1,4 @@
-### Hi there 👋, I’m [Yalda Eftekhari](https://www.linkedin.com/in/yalda-eftekhari/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=10528D&vCenter=true&width=435&lines=Hi+there%2C+I%E2%80%99m+Yalda!)](https://git.io/typing-svg)
 
 <!--
 **yalda-eftekhari/yalda-eftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
