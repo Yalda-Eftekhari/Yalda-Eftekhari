@@ -4,13 +4,12 @@
 **yalda-eftekhari/yalda-eftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello! My name is **Yalda Eftekhari**, and I am a **Master’s student in Computer Science at [Sorbonne University](https://www.sorbonne-universite.fr/)**.  
-My main interests are in **Image Processing**, **Computer Vision**, and **Deep Learning** — especially for **medical image analysis**.  
-I’m currently looking for an **internship position** related to these fields to apply my research and technical skills to real-world problems.
+I’m a **Master’s student in Computer Science at [Sorbonne University](https://www.sorbonne-universite.fr/)**, specializing in **Image Processing**, **Computer Vision**, and **Deep Learning**, with a focus on **medical image analysis**.  
+Currently, I’m looking for an **internship position** in **Computer Vision** or **Image Processing** to apply my research and technical skills to real-world challenges.
 
 - 🔭 I’m currently working on deep learning models for **medical image segmentation**  
-- 🌱 I’m learning more about **advanced image analysis** and **deep learning architectures**  
-- 💬 Let’s talk about **computer vision**, **image processing**, and **AI applications in healthcare**  
+- 🌱 Learning more about **advanced image analysis** and **deep learning architectures**  
+- 💬 Let’s talk about **computer vision**, **image processing**, and **AI in healthcare**  
 - 📫 How to reach me: **yalda.ef@gmail.com**  
 - 🧠 [LinkedIn](https://www.linkedin.com/in/yalda-eftekhari/)  
 
