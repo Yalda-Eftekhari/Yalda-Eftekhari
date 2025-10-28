@@ -1,16 +1,25 @@
-## Hi there 👋
+# Yalda Eftekhari
 
-<!--
-**Yalda-Eftekhari/Yalda-Eftekhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student in **Computer Science at Sorbonne University**, specializing in **Image Processing** and **Computer Vision**.  
+My current research focuses on developing **deep learning methods for medical image analysis** and **segmentation tasks**.  
+I am actively seeking an **internship position** in **Computer Vision** or **Image Processing** to apply and expand my skills in real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Programming:** Python, C++, MATLAB  
+- **Deep Learning:** PyTorch, TensorFlow  
+- **Computer Vision:** OpenCV, scikit-image  
+- **Data & Tools:** NumPy, Pandas, Matplotlib, Jupyter  
+- **Development:** FastAPI, Git, Docker
+
+---
+
+### About Me
+
+I’m passionate about transforming visual data into meaningful insights using deep learning and computer vision.  
+I enjoy working on problems that combine analytical thinking with creativity and real-world impact.
+
+📫 **Email:** yalda.ef@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/yalda-eftekhari](https://www.linkedin.com/in/yalda-eftekhari/)
