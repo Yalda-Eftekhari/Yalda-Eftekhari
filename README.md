@@ -9,8 +9,6 @@ Currently, I’m looking for an **internship position** in **Computer Vision** o
 
 - 🔭 I’m currently working on deep learning models for **medical image segmentation**  
 - 🌱 Learning more about **advanced image analysis** and **deep learning architectures**  
-- 💬 Let’s talk about **computer vision**, **image processing**, and **AI in healthcare**  
-
 ---
 
 **Languages and Tools:**  
@@ -32,5 +30,3 @@ Currently, I’m looking for an **internship position** in **Computer Vision** o
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yalda-eftekhari&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yalda-eftekhari.yalda-eftekhari)
